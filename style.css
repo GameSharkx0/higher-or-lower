@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: #191B1E;
+    color: whitesmoke
+}
+input {
+    border-style: none;
+    box-shadow: 0px 0px 8px;
+    margin: 10px;
+    background-color: whitesmoke;
+}
+
+input:active{
+    border-style: none;
+}
+.hot {
+    color: crimson;
+    background-color: #191B1E;
+}
+.cold {
+    color: paleturquoise;
+    background-color: #191B1E;
+}
+.mellow{
+    color:palegreen;
+    background-color: #191B1E;
+}
+
+canvas {
+    /* border: solid black 2px; */
+}
